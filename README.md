@@ -3,11 +3,7 @@
 # meta-gh
 gh plugin for [meta](https://github.com/mateodelnorte/meta)
 
-The [`gh`](https://github.com/node-gh/gh) tool needs to be present in your path
-
-```
-npm install -g gh
-```
+The `gh` tool needs to be installed on your machine. See [Github CLI page](https://cli.github.com) for instructions.
 
 ## Usage
 
